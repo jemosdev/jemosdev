@@ -1,7 +1,7 @@
 ## Hi, I'm Jerson 👋
 ### Backend developer | Chemical Engineer
 
-I am a developer passionate about for chemistry, software development and technology. Most of my experience is related to teaching and researching in chemistry and how they are supported through the technology...
+I am a developer passionate about for chemistry, teaching and research.
 
 Languages and Tools:
 
