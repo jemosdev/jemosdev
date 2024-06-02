@@ -1,7 +1,7 @@
 ## Hi, I'm Jerson 👋
-### Backend developer | Chemical Engineer
+### Full-Stack Developer Django-ReactJs | Chemical Engineer
 
-I am a developer passionate about for chemistry, teaching and research.
+Engineer with a passion for development and Python, dedicated to crafting robust software solutions. Drawing upon experience in programming, I distinguish myself through my ability to enhance code performance.
 
 ## Technologies:
 <img align= "left" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='python' width= "26px" height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt='fastapi' height='50'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt='flask' height='40'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' alt='django' height='40'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt='mysql' height='44'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' alt='postgre' height='40'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' height='42'>
