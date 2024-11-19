@@ -1,5 +1,5 @@
 ## Hi, I'm Jerson 👋
-### Full-Stack Developer Django-ReactJs | Chemical Engineer
+### DevOps Engineer | Full-Stack Django-ReactJs
 
 Engineer with a passion for development and Python, dedicated to crafting robust software solutions. Drawing upon experience in programming, I distinguish myself through my ability to enhance code performance.
 
